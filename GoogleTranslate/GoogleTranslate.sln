@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleTranslate", "GoogleTranslate\GoogleTranslate.csproj", "{EF4EE1F5-8AED-4773-835C-386674DA23BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleTranslateToken", "GoogleTranslateToken\GoogleTranslateToken.csproj", "{2DC33DF7-A327-49F9-A061-CE228BBA33B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4EE1F5-8AED-4773-835C-386674DA23BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4EE1F5-8AED-4773-835C-386674DA23BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4EE1F5-8AED-4773-835C-386674DA23BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4EE1F5-8AED-4773-835C-386674DA23BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC33DF7-A327-49F9-A061-CE228BBA33B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC33DF7-A327-49F9-A061-CE228BBA33B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC33DF7-A327-49F9-A061-CE228BBA33B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC33DF7-A327-49F9-A061-CE228BBA33B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
